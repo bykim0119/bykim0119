@@ -3,8 +3,7 @@
 
 LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심을 가지고 개발하고 있습니다.
 
-단순히 모델을 호출하는 것을 넘어,  
-AI가 **작업을 위임받고 실행하며 결과를 검증할 수 있는 시스템**을 만드는 것을 지향합니다.
+사람이 반복적이거나 복잡한 작업에서 벗어나도록 시스템을 만드는 AI/Agent 엔지니어를 지향합니다.
 
 ---
 
@@ -15,12 +14,12 @@ AI가 **작업을 위임받고 실행하며 결과를 검증할 수 있는 시�
 - **Hermes Agent와 Codex CLI를 기반으로 구현한 코딩 서브에이전트 시스템**
 ---
 
-### 🎨 [ADGenService](https://github.com/bykim0119/ADGenService_team7)
+### [ADGenService](https://github.com/bykim0119/ADGenService_team7)
 
 - **소상공인을 위한 AI 광고 생성 서비스**
 ---
 
-### 🎨 [plan-guard](https://github.com/bykim0119/plan-guard)
+### [plan-guard](https://github.com/bykim0119/plan-guard)
 
 - **Grill-me 기반 클로드 spec/plan 작성 명세화 플러그인**
 ---

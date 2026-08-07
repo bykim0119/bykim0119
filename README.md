@@ -12,17 +12,17 @@ AI가 **작업을 위임받고 실행하며 결과를 검증할 수 있는 시�
 
 ### [Hermes Agent Company](https://github.com/bykim0119/hermes-agent-company)
 
-**Hermes Agent와 Codex CLI를 기반으로 구현한 코딩 서브에이전트 시스템**
+- **Hermes Agent와 Codex CLI를 기반으로 구현한 코딩 서브에이전트 시스템**
 ---
 
 ### 🎨 [ADGenService](https://github.com/bykim0119/ADGenService_team7)
 
-**소상공인을 위한 AI 광고 생성 서비스**
+- **소상공인을 위한 AI 광고 생성 서비스**
 ---
 
 ### 🎨 [plan-guard](https://github.com/bykim0119/plan-guard)
 
-**Grill-me 기반 클로드 spec/plan 작성 명세화 플러그인**
+- **Grill-me 기반 클로드 spec/plan 작성 명세화 플러그인**
 ---
 
 ## 오픈소스 기여

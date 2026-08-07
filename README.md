@@ -26,7 +26,7 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 
 ## 오픈소스 기여
 **Hermes Agent**
-**NousResearch/Hermes-Agent의 Discord 접근 제어 관련 버그 수정에 기여**
+**NousResearch/Hermes-Agent의 Discord 접근 제어 관련 버그 수정에 기여(이슈 #22334)**
 
 ## ⚙️ Tech Stacks
 

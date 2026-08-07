@@ -49,4 +49,4 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 ---
 
 ## Contact
-bykim0119@gmail.com
+bukim0119@gmail.com

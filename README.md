@@ -21,7 +21,7 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 
 ### [plan-guard](https://github.com/bykim0119/plan-guard)
 
-- **Grill-me 기반 클로드 spec/plan 작성 명세화 플러그인**
+- **Grill-me 기반 Claude spec/plan 작성 명세화 플러그인**
 ---
 
 ## 오픈소스 기여 

@@ -18,7 +18,7 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 - MCP를 활용한 사내 데이터 및 업무 도구 연동
 - 에이전트 기반 자동화 워크플로우 설계 및 구현
 
-## 🛠 주요 프로젝트
+## 🛠 Featured Projects
 
 ### [Hermes Agent Company](https://github.com/bykim0119/hermes-agent-company)
 
@@ -35,10 +35,12 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 - **Grill-me 기반 Claude spec/plan 작성 명세화 플러그인**
 ---
 
-## 오픈소스 기여 
-### **Hermes Agent**
-**NousResearch/Hermes-Agent의 Discord 접근 제어 관련 버그 수정에 기여(이슈 #22334)**
-
+## OSS Contribution
+### **NousResearch - Hermes Agent**
+### **Contributor**
+**Discord 접근 제어 관련 버그 수정에 기여(이슈 #22334)**
+**Slack 상태표시 해제 이상 버그 (이슈 #102704)**
+  - Maintainer 결정 대기중
 ## ⚙️ Tech Stacks
 
 ### AI / LLM

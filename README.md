@@ -41,7 +41,7 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 **Discord 접근 제어 관련 버그 수정에 기여(이슈 #22334)**
 
 **Slack 상태표시 해제 이상 버그 (이슈 #102704)**
-  - Maintainer 결정 대기중
+  - Maintainer 결정 대기중 (https://github.com/NousResearch/hermes-agent/pull/102706)
 ## ⚙️ Tech Stacks
 
 ### AI / LLM

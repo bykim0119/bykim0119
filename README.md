@@ -10,7 +10,7 @@ LLM Agent, AI 자동화, 실제 서비스에 적용되는 AI 시스템에 관심
 
 ## 💼 Experience
 
-### Growthmaker팀(스케일업스쿼드) | AX Engineer Intern
+### 그로스메이커팀(스케일업스쿼드) | AX Engineer Intern
 **26.08 ~ 현재**
 
 - 사내 업무 자동화를 위한 AI 에이전트 시스템 구축 및 운영
